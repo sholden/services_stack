@@ -1,0 +1,9 @@
+{
+  "semver": "1.0.@@BUILD_NUMBER@@",
+  "source": "git::@@GIT_URL@@//src?ref=@@GIT_COMMIT@@",
+  "dependencies": [
+    {
+      "component": "universal_example"
+    }
+  ]
+}
